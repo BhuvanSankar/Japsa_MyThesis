@@ -255,11 +255,7 @@ public class KmeanClustering {
 		
 		// TODO Auto-generated method stub
 		Clustering();
-		// C:\Users\buvan.suji\workspace\Distance\SampleData\results\TR_Fasta\OutputReads\chr11119005_1121390.fasta
-		// C:\Users\buvan.suji\workspace\Distance\SampleData\results\TR_Fasta\OutputReads\chr1842862036_42864557.fasta
-		//C:/Users/Subashchandran/Marseclipse/workspace/Data/TrResults/Finished Cluster/chr11119005_1121390.fasta
-		//C:/Users/Subashchandran/Marseclipse/workspace/Data/TrResults/chr2440992_444078.fasta
-		//C:/Users/Subashchandran/Marseclipse/workspace/Data/TrResults/chr68826819_8829365.fasta
+		
 	}
 
 
